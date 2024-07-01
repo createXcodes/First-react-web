@@ -14,7 +14,7 @@ function App() {
         </li>
         <div className="features">
         <li className="nav-item">
-          <a className="nav-link" href="/">Features</a>
+          <a className="nav-link" href="/">F</a>
         </li>
         </div>
         <div className="pricing">
